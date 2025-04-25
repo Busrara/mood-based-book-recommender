@@ -16,6 +16,8 @@ This project suggests books according to your current mood. It uses sentence emb
 - Scikit-learn
 - SentenceTransformers (`all-MiniLM-L6-v2`)
 
+Don't skip to read my detailed writing on this project: https://medium.com/@busraracoban/what-should-i-read-when-i-feel-a-mood-based-book-recommender-built-with-python-and-ai-43fed1b4894f 
+
 ## Installation
 
 ```bash
