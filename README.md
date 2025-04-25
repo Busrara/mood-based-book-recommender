@@ -1,6 +1,6 @@
 # mood-based-book-recommender
 
-This project suggests books according to your current mood. It leverages sentence embeddings to find books whose descriptions or the first sentences of the book best match your emotion.
+This project suggests books according to your current mood. It uses sentence embeddings to find books whose descriptions or the first sentences best match your emotion.
 
 ## How It Works
 
