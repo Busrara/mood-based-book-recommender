@@ -16,7 +16,7 @@ This project suggests books according to your current mood. It uses sentence emb
 - Scikit-learn
 - SentenceTransformers (`all-MiniLM-L6-v2`)
 
-## 📦 Installation
+## Installation
 
 ```bash
 pip install -r requirements.txt
